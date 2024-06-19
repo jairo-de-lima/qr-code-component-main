@@ -1,103 +1,47 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor | QR code component
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![Captura de tela 2024-06-19 121430](https://github.com/jairo-de-lima/qr-code-component-main/assets/168688056/bd870d9c-3541-428a-b2ac-65970478211f)
 
-## Table of contents
+![Captura de tela 2024-06-19 121452](https://github.com/jairo-de-lima/qr-code-component-main/assets/168688056/27c9d0a0-119e-4d72-a83e-ea8b159c2a5b)
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
+Este projeto é um componente de QR code baseado em um desafio do Frontend Mentor. O objetivo é melhorar suas habilidades de front-end construindo projetos práticos.
 
-### Screenshot
+## Descrição
 
-![](./screenshot.jpg)
+Este projeto exibe um QR code que, ao ser escaneado, leva o usuário ao site do Frontend Mentor, onde é possível encontrar mais desafios para melhorar suas habilidades de codificação.
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+## Instalação
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Para visualizar o projeto localmente, siga os passos abaixo:
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/jairo-de-lima/qr-code-component.git
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+2. Navegue até o diretório do projeto:
 
-### Links
+    cd qr-code-component
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## My process
+Uso
+Abra o arquivo index.html no seu navegador para visualizar o componente de QR code.
 
-### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+Contribuindo
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar problemas, por favor, abra uma issue ou envie um pull request.
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
-### What I learned
+Autores
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Jairo de Lima - GitHub
 
-To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+Agradecimentos
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+Desafio criado por Frontend Mentor
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+Fonte utilizada: Google Fonts
 
-### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
